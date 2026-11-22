@@ -7,8 +7,7 @@ A **feature-by-feature recreation of Windows 10 Notepad with a dark
 theme**. A standalone application that replaces `notepad.exe`: no DLL
 injection and no system files are modified.
 
-It uses Windows' official `Image File Execution Options` mechanism, just
-like the Task Manager Dark Mode project.
+It uses Windows' official `Image File Execution Options` mechanism.
 
 Everything that launches Notepad opens Notepad Dark, including
 `Win+R → notepad`, "Open with / Edit," right-click → editing a new text
