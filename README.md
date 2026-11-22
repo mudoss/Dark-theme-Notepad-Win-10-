@@ -1,5 +1,8 @@
 # Notepad Dark (Windows 10)
 
+<img width="1181" height="832" alt="715155799-ba68a6cb-a1cd-4142-9a24-002eb0b6800c" src="https://github.com/user-attachments/assets/c9185ace-c3ac-48cc-a398-886d0ccf2841" />
+
+
 A **feature-by-feature recreation of Windows 10 Notepad with a dark
 theme**. A standalone application that replaces `notepad.exe`: no DLL
 injection and no system files are modified.
